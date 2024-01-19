@@ -1,16 +1,17 @@
 # What is this project?
-This is a data science project investigating the relationship between my Headphone Audio Exposure and Step Count values.
+* This is a data science project investigating the relationship between my Headphone Audio Exposure and Step Count values.
+* More information can be found in presentation.pptx file.
 
 # Data I Gathered:
 * Exported a xml file from Apple Health app.
 
 # How To Use:
 1) Convert Apple health xml file to csv file.
-2) Delete unwanted data with certain operations step by step
+2) Delete unwanted data with certain operations step by step.
 3) Use lastly modified csv file to train/test models.
 
 # 1)Converting XML to CSV
-* I used a pre designed script made by Jason Meno for converting
+* I used a pre designed script made by Jason Meno for converting.
 * Here is Github repository of that script: https://github.com/jameno/Simple-Apple-Health-XML-to-CSV
 
 # 2) Data Preperation
