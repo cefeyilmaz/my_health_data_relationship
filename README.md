@@ -1,4 +1,4 @@
-# my_health_data_relationship
+# What is this project?
 This is a data science project investigating the relationship between my Headphone Audio Exposure and Step Count values.
 
 # Data I Gathered:
